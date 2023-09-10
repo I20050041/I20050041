@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Saludos, soy Jared Israel Tovar Covarrubias, un estudiante apasionado de la Ingeniería en Informática en el Instituto Tecnológico Superior de Monclova. Actualmente, me encuentro en el séptimo semestre de mi carrera y me dedico a explorar y desarrollar soluciones tecnológicas innovadoras.<br><br>A lo largo de mi recorrido en el ámbito informático, he adquirido competencias en diversas áreas, desde programación hasta diseño de sistemas. Me encanta enfrentar desafíos que requieran creatividad y resolución de problemas, y estoy constantemente en proceso de aprendizaje, buscando nuevas oportunidades para ampliar mi conocimiento y mejorar mis habilidades.<br><br>Aquí, en mi perfil de GitHub, compartiré mis proyectos y contribuciones en el campo de la programación, demostrando mi compromiso con la comunidad de desarrolladores y mi pasión por la tecnología. Espero que disfrutes explorando mis trabajos y que tengamos la oportunidad de conectar y colaborar en proyectos emocionantes en el futuro.
 
 
